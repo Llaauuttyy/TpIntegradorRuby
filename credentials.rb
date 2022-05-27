@@ -1,4 +1,4 @@
 # Database credentials
 
-USERNAME = 'XXX'
-PASSWORD = 'XXX'
+USERNAME = 'XXXX'
+PASSWORD = 'XXXX'
