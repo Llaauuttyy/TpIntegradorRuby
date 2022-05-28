@@ -11,11 +11,11 @@ Gem **Nokogiri**
 
     sudo gem install nokogiri
 
-Gem **pg**
+Gem **Pg**
 
     sudo gem install pg
 
-Gem **activerecord**
+Gem **Activerecord**
 
     sudo gem install activerecord
 
